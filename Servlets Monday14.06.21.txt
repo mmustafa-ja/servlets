@@ -1,0 +1,9 @@
+Worked on:
+Servlets
+web.xml config
+JSP
+requestdispatcher
+HttpServletResponse and HttpServletRequest
+sendRedirect
+Annotations
+HttpSession and Cookies
